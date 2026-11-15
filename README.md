@@ -1,9 +1,4 @@
 # AeroNotch
-Interactive Dynamic Island for Windows 10/11 built with Python and PyQt6. Features live system monitoring, media controls, and smooth animations.
-
-
-
-# AeroNotch
 
 **AeroNotch** is a modern, interactive Dynamic Island widget for Windows 10 and 11, built with Python and PyQt6.
 
