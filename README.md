@@ -21,7 +21,7 @@ You don't need to install Python to try AeroNotch:
 
 1. Clone the repository:
    ```bash
-   https://github.com/vakarman-dev/AeroNotch?tab=readme-ov-file
+   git clone https://github.com/vakarman-dev/AeroNotch?tab=readme-ov-file
    cd AeroNotch
    ```
 
